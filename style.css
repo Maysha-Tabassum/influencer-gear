@@ -110,3 +110,23 @@ i {
 /*----------------------
    logo section starts 
    ----------------------- */
+hr {
+    color: #dad7d7;
+}
+
+.logo-sec {
+    height: 110px;
+    width: 90%;
+    padding: 0px 16px;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 68px;
+}
+
+.logos {
+    margin: 25px 62px;
+}
+
+.logos img {
+    padding-right: 46px;
+}
